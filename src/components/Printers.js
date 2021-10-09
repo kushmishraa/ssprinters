@@ -21,10 +21,11 @@ function Printers() {
                                     <p>call us</p>
                                 </Leftbtn>
                                 </Link>
-                        
+                                <a href="mailto:ssprintertraders@gmail.com" target="_blank">  
                                 <Rightbtn>
                                        <p> mail us </p>
                                     </Rightbtn>
+                                    </a>
                                 
 
                        </Buttons>
