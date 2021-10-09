@@ -18,14 +18,14 @@ function App() {
                 <Router>
                <Header />
                 
-               <Route path="/ssprinters/ink" component={Ink} />
-              <Route  path="/ssprinters/home" component={Home}/>
-              <Route path="/ssprinters/webdev" component={Webdev} />
-              <Route  path="/ssprinters/order" component={Order}/>
-              <Route path="/ssprinters/status" component={Status}/>
-              <Route path="/ssprinters/callus" component={Callus} />
-              <Route path="/ssprinters/mailus" component={Mailus} />
-              <Route path="/ssprinters/printers" component={Printers} />
+               <Route path="/ssprinters/ink" exact component={Ink} />
+              <Route  path="/ssprinters/home" exact component={Home}/>
+              <Route path="/ssprinters/webdev" exact component={Webdev} />
+              <Route  path="/ssprinters/order" exact component={Order}/>
+              <Route path="/ssprinters/status" exact component={Status}/>
+              <Route path="/ssprinters/callus" exact component={Callus} />
+              <Route path="/ssprinters/mailus" exact component={Mailus} />
+              <Route path="/ssprinters/printers" exact component={Printers} />
               <Route path="/ssprinters/" exact component={Home}/>
               
                   </Router>
