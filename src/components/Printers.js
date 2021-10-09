@@ -47,7 +47,10 @@ const Printer= styled.div`
         img{
                 margin-top:3%;
                 width:40%;
+                @media (max-width: 768px){
 
+                        margin-top: 20%;
+                     }
         }
 `
 
@@ -63,6 +66,11 @@ justify-content : center;
 display: flex;
 margin-top:2%;
 margin-bottom:2%;
+@media (max-width: 768px){
+
+        display: flex;
+        flex-direction: column;
+     }
 
 `
 
