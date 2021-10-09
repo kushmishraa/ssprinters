@@ -16,16 +16,16 @@ function Printers() {
                     </Fade>
                     <Fade top>
                    <Buttons>
-                   <Link to="/callus">
+                   <Link to="/ssprinters/callus">
                             <Leftbtn>
                                     <p>call us</p>
                                 </Leftbtn>
                                 </Link>
-                                <Link to="/mailus">
+                        
                                 <Rightbtn>
                                        <p> mail us </p>
                                     </Rightbtn>
-                                    </Link>
+                                
 
                        </Buttons>
                        </Fade>
