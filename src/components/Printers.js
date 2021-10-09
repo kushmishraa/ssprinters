@@ -12,7 +12,7 @@ function Printers() {
 
                 <Printer>
                 <Fade right>
-                    <img src="/ssprinters/images/61+h3559FyL._SL1500_.JPG" />
+                    <img src="https://kushmishraa.github.io/ssprinters/images/61+h3559FyL._SL1500_.JPG" />
                     </Fade>
                     <Fade top>
                    <Buttons>
