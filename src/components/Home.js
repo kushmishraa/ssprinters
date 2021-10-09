@@ -10,7 +10,7 @@ function home() {
                 
                     title="S.S PRINTERS AND TRADERS"
                     description=" we deliver what you want !"
-                    backimg="printer-print-machine-scanner.JPG"
+                    backimg="printer-print-machine-scanner.jpg"
                     leftBtntext="Call us"
                     rightBtntext="Mail us"
                 />
