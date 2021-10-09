@@ -13,10 +13,10 @@ function Callus() {
             <Fade left>
             <Content>
                     <Whtsapp>
-                    <img src="/images/whtsapp.png" /><p>whatsapp me on <u><a href="tel:+91-7007890580">7007890580 </a></u></p>
+                    <img src="ssprinters/images/whtsapp.png" /><p>whatsapp me on <u><a href="tel:+91-7007890580">7007890580 </a></u></p>
                     </Whtsapp>
                     <Call>
-                    <img src="/images/call.jpg" /><p>call me on <u><a href="tel:+91-7007890580">7007890580 </a></u></p>
+                    <img src="ssprinters/images/call.jpg" /><p>call me on <u><a href="tel:+91-7007890580">7007890580 </a></u></p>
                     </Call>
 
                 </Content>
