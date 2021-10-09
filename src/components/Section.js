@@ -31,7 +31,7 @@ function Section({ title, leftBtntext ,rightBtntext,description, backimg } ) {
                                 
                         </ButtonGroup>
                         </Fade> 
-                        <Downarrow src="/sprinters/images/pngfind.com-arrow-png-transparent-936844.png" />
+                        <Downarrow src="https://github.com/kushmishraa/ssprinters/blob/main/public/images/pngfind.com-arrow-png-transparent-936844.png" />
                         </Buttons>
             </Wrap>
     )
