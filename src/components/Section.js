@@ -18,7 +18,7 @@ function Section({ title, leftBtntext ,rightBtntext,description, backimg } ) {
                     <Buttons>
                         <Fade bottom>
                     <ButtonGroup>
-                            <Link to="/callus">
+                            <Link to="/ssprinters/callus">
                             <Leftbutton>
                                 <p>{leftBtntext}</p>
                                 </Leftbutton>
